@@ -6,6 +6,6 @@ Untuk langkah-langkah pembuatanya, ada pada artikel berikut.
 
 ## Screenshot
 
-![Login](screenshot/login.png)
+![Login](login.png)
 
-![Register](screenshot/register.png)
+![Register](register.png)
